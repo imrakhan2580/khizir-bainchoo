@@ -74,14 +74,22 @@ h3 {
   border-image-slice: 1;
 }
 
-.chobi {
-  display: flex;
-}
-
 #maj {
   text-align: center;
 }
 
 footer p {
   text-align: center;
+}
+
+.cobi img {
+  width: 70%;
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 10px 10px 80px gray;
+  margin-bottom: 100px;
+  border-radius: 50%;
+}
+.cobi {
+  display: flex;
 }

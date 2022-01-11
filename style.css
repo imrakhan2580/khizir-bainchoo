@@ -76,6 +76,8 @@ h3 {
 
 #maj {
   text-align: center;
+  color: orangered;
+  font-size: 65px;
 }
 
 footer p {
@@ -83,13 +85,17 @@ footer p {
 }
 
 .cobi img {
-  width: 70%;
-  margin-left: 20%;
-  margin-right: 20%;
+  width: 100%;
+  margin-right: 15%;
+  margin-left: 15%;
+
   box-shadow: 10px 10px 80px gray;
   margin-bottom: 100px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 .cobi {
   display: flex;
+  justify-content: space-evenly;
+
+  margin-top: 100px;
 }

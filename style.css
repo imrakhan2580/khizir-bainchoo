@@ -91,7 +91,7 @@ footer p {
 
   box-shadow: 10px 10px 80px gray;
   margin-bottom: 100px;
-  border-radius: 0%;
+  border-radius: 50%;
 }
 .cobi {
   display: flex;

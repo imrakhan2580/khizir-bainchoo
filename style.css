@@ -99,3 +99,9 @@ footer p {
 
   margin-top: 100px;
 }
+
+footer img {
+  height: 50%;
+  margin-left: 33.33%;
+  border-radius: 50%;
+}
